@@ -1,0 +1,7 @@
+pytest
+mypy
+pylint
+ruff
+sphinx
+sphinx-rtd-theme
+nbsphinx

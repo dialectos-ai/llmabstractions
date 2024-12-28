@@ -1,0 +1,6 @@
+pydata-sphinx-theme
+sphinx
+nbsphinx
+ipykernel
+nbsphinx
+omicspylib
