@@ -1,0 +1,3 @@
+[MESSAGES CONTROL]
+# Disable unwanted warnings
+disable=cyclic-import,duplicate-code
